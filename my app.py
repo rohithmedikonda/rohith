@@ -5,7 +5,7 @@ st.header("Types of tiger")
 col1, col2 = st.columns(2)
 with col1:
   st.subheader("r0 tiger")
-  st.image("./r0.jpg", caption=" r0 tiger", width=300,use_column_width=True)
+  st.image("./r0.webp", caption=" r0 tiger", width=300,use_column_width=True)
   st.write("r0 tigers are cute")
 with col2:
   st.subheader("R1 Cat")
